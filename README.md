@@ -3,7 +3,7 @@
 I'm an Information Technology undergraduate from Tanta University, passionate about networking and cybersecurity.
 ## 📛My Badges
 [!Cisco CCNA
-](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63a4eed8-1c95-48fa-89c8-35baea2dc1be" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+](https://www.credly.com/badges/1eb36b18-1fd4-40a5-94f4-8f5701c74d6c/public_url)
 - 🔭 I’m currently working on DEPI Microsoft Data Engineering Scholarship
 - 🌱 I’m currently learning Python, T-SQL, Data Warehouse Implementation 
 - 📫 How to reach me:
