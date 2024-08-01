@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Python, T-SQL, Data Warehouse Implementation**
 
-- 📫 How to reach me **Email: youssefmagdy2504@gmail.com**
+- 👯 I’m looking to collaborate on **Data Engineering**
+
+- 📫 How to reach me **youssefmagdy2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
